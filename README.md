@@ -24,15 +24,22 @@
 ### Luer APP
 Create your bookings all things you want to borrow, it doesn't matter how much time you need to use it!
 [![luerapp](https://i.imgur.com/wMdYxl1.png)](https://) [![luerapp](https://i.imgur.com/YvJLVeJ.png)](https://) 
-##### React Native | App Context | ApolloGraphQL | Styled Components | OneSignal 
+`React Native` | `App Context` | `ApolloGraphQL` | `Styled Components` | `OneSignal` 
 
 ### BIM
 Internal QR Codes administrator, settings, commerces and user management
 
 [![bim](https://i.imgur.com/6WkwAAc.png)](https://)  [![bim](https://i.imgur.com/Hg2blOR.png)](https://) 
-##### ReactJS | App Context | React HOOKs | TaildwindCSS | MirageJS 
+`ReactJS` | `App Context` | `React HOOKs` | `TaildwindCSS` | `MirageJS` 
+
+### Red Sofa APP
+Refer to your friends to job opportunities, if your friend is hired, you will earn money!
+
+[![redsofa](https://i.imgur.com/TLkn6EN.png)](https://) [![refsofa](https://i.imgur.com/0x4NgwI.png)](https://) 
+
+`ReactNative` | `Redux` |  
 
 ### JOVEN360
 You can apply to new job opportunities, just you need to be registered in [JOVEN360](https://www.joven360.com)
 [![joven360](https://i.imgur.com/lwbUCO7.png)](https://) [![joven360](https://i.imgur.com/ngzQYjL.png)](https://) 
-##### RubyOnRails | Bootstrap | JQuery 
+`RubyOnRails` | `Bootstrap` | `JQuery` 
