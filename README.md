@@ -20,3 +20,13 @@
 ## ⤴ Hosting
 ###### [![digitalocean](https://img.shields.io/badge/digitalocean-42ACD7?style=for-the-badge)](https://)  [![heroku](https://img.shields.io/badge/heroku-7842D7?style=for-the-badge)](https://)  [![Firebase](https://img.shields.io/badge/Firebase-A9A124?style=for-the-badge)](https://)
 
+## Applications developed
+### Luer APP
+Create your bookings all things you want to borrow, it doesn't matter how much time you need to use it!
+[![luerapp](https://i.imgur.com/wMdYxl1.png)](https://) [![luerapp](https://i.imgur.com/YvJLVeJ.png)](https://) 
+##### React Native | App Context | ApolloGraphQL | Styled Components | OneSignal 
+
+### JOVEN360
+You can apply to new job opportunities, just you need to be registered in [JOVEN360](https://www.joven360.com)
+[![joven360](https://i.imgur.com/lwbUCO7.png)](https://) [![joven360](https://i.imgur.com/ngzQYjL.png)](https://) 
+##### RubyOnRails | Bootstrap | JQuery 
