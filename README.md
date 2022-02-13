@@ -5,7 +5,7 @@
 > API Applications using RubyOnRails Technology, participated in different kind of teams achieving multiple challengues in each projects.
 
 ## 🖥 Frontend
-##### [![Typescript](https://img.shields.io/badge/Typescript-0D7DBD?style=for-the-badge)](https://)  [![Javascript](https://img.shields.io/badge/Javascript-E7E478?style=for-the-badge)](https://)  [![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge)](https://)   [![CSS3](https://img.shields.io/badge/CSS3-0D7DBD?style=for-the-badge)](https://)
+##### [![Typescript](https://img.shields.io/badge/Typescript-0D7DBD?style=for-the-badge)](https://)  [![Javascript](https://img.shields.io/badge/Javascript-E7E478?style=for-the-badge)](https://)  [![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge)](https://)   [![CSS3](https://img.shields.io/badge/CSS3-0D7DBD?style=for-the-badge)](https://)  [![Responsive Design](https://img.shields.io/badge/Responsive_Design-2ea44f?style=for-the-badge)](https://)
 ## ⚡ Backend
 ##### [![Ruby](https://img.shields.io/badge/Ruby-BD4A0D?style=for-the-badge)](https://) [![php](https://img.shields.io/badge/php-60C83A?style=for-the-badge)](https://) [![rails](https://img.shields.io/badge/rails-BD0D0D?style=for-the-badge)](https://)
 ## ⛏ Tools
@@ -21,6 +21,10 @@
 ###### [![digitalocean](https://img.shields.io/badge/digitalocean-42ACD7?style=for-the-badge)](https://)  [![heroku](https://img.shields.io/badge/heroku-7842D7?style=for-the-badge)](https://)  [![Firebase](https://img.shields.io/badge/Firebase-A9A124?style=for-the-badge)](https://)
 
 ## Applications developed
+### Dogs vs Hotdogs landing page
+Informative landing page for dogs and hotdogs application
+![dogs](https://i.imgur.com/GPnVWll.png)]
+
 ### Luer APP
 Create your bookings all things you want to borrow, it doesn't matter how much time you need to use it!
 [![luerapp](https://i.imgur.com/wMdYxl1.png)](https://) [![luerapp](https://i.imgur.com/YvJLVeJ.png)](https://) 
