@@ -45,9 +45,6 @@ Key Features:
 
 `React Native` | `App Context` | `EXPO` | `EAS` | `Sentry` 
 
-### Dogs vs Hotdogs landing page
-Informative landing page for dogs and hotdogs application
-![dogs](https://i.imgur.com/GPnVWll.png)]
 
 ### POS APP
 Mobile point of sale (POS) app that lets businesses process sales, manage inventory, and track their performance from a phone or tablet. Fast, simple, and built for day-to-day operations, it helps you run your business from anywhere.
@@ -63,6 +60,19 @@ Key Features:
 <img width="943" height="436" alt="image" src="https://github.com/user-attachments/assets/5741cc75-9a42-4871-a9d9-65dd4656aca5" />
 
 `React Native` | `Power Sync` | `EXPO` | `EAS` | `Realm` | NodeJS`
+
+### Assistant control APP
+
+Mobile app for recording and reporting weekly attendance at a church in El Salvador. It replaces paper lists with a quick, simple process, so leaders can take attendance at each service or activity and keep an organized record of their community.
+
+Key Features:
+- Register attendance for weekly services and activities
+- Manage member and visitor lists
+- Weekly attendance reports and summaries
+
+<img width="305" height="568" alt="image" src="https://github.com/user-attachments/assets/186fba31-11cb-4f15-aca6-e346cbc562f4" />
+
+`React Native` | `EAS` | `Power Sync` 
 
 ### Borrow App
 Mobile app for borrowing and renting things you need, for as long as you need them. Why buy when you can book? Choose your dates, create a booking in seconds, and get what you want without the cost of owning it.
@@ -89,7 +99,7 @@ Key Features:
 
 [![bim](https://i.imgur.com/6WkwAAc.png)](https://)  [![bim](https://i.imgur.com/Hg2blOR.png)](https://) 
 
-`ReactJS` | `App Context` | `React HOOKs` | `TaildwindCSS` | `MirageJS` | `NextJS` 
+`ReactJS` | `App Context` | `React Hooks` | `Tailwind CSS` | `MirageJS` | `NextJS` 
 
 ### Red Sofa APP
 Mobile app that rewards you for helping your friends find jobs. Refer them to open opportunities, and if they get hired, you earn money. It’s a simple way to turn your network into income while helping the people you know land their next role.
@@ -102,28 +112,23 @@ Key Features:
 
 [![redsofa](https://i.imgur.com/TLkn6EN.png)](https://) [![refsofa](https://i.imgur.com/0x4NgwI.png)](https://) 
 
-`ReactNative` | `Redux` |  
+`React Native` | `Redux` | `Ruby on Rails` | `Full Stack Engineering` | `Typescript`
 
 ### JOVEN360
-You can apply to new job opportunities, just you need to be registered in [JOVEN360](https://www.joven360.com)
-Key Features:
-- BackOffice administrator
-- Apply yourself to a first opportunity, Job, Internship, Volunteers.
-- Track your application status
+Developed a web application using Ruby on Rails, designed to connect young professionals with career opportunities and help them take their first steps into the professional world. The platform enables users to explore and apply for job opportunities, internships, and volunteer programs, while providing tools to manage and track their applications throughout the recruitment process.
+
+**Key Features:**
+- **Administrative BackOffice:** Management of users, opportunities, and application processes.
+- **Opportunity Management:** Browse and apply for job openings, internships, and volunteer programs.
+- **Application Tracking:** Monitor application status and follow progress throughout the recruitment process.
+- **User Management:** User registration, profile management, and application history.
+
+Website: [JOVEN360](https://www.joven360.com)
 [![joven360](https://i.imgur.com/lwbUCO7.png)](https://) [![joven360](https://i.imgur.com/ngzQYjL.png)](https://) 
 
 `RubyOnRails` | `Bootstrap` | `JQuery` 
 
-### Assistant control APP
-
-Mobile app for recording and reporting weekly attendance at a church in El Salvador. It replaces paper lists with a quick, simple process, so leaders can take attendance at each service or activity and keep an organized record of their community.
-
-Key Features:
-- Register attendance for weekly services and activities
-- Manage member and visitor lists
-- Weekly attendance reports and summaries
-
-<img width="305" height="568" alt="image" src="https://github.com/user-attachments/assets/186fba31-11cb-4f15-aca6-e346cbc562f4" />
-
-`React Native` | `EAS` | `Power Sync` 
+### Dogs vs Hotdogs landing page
+Informative landing page for dogs and hotdogs application
+![dogs](https://i.imgur.com/GPnVWll.png)
 
