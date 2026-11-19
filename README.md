@@ -1,7 +1,14 @@
-### Hi there 😄
-> My name is Walter Santacruz, I am a FullStack and React.JS & React Native developer, from El Salvador.
+### Hi there! 👋
 
-> Software Engineer with more than 8 years of experience Specialized in React.js, React Native, Next.js, and TypeScript, Experienced in building scalable applications, integrating REST APIs, developing reusable architectures, and leveraging AI-powered, API Applications using RubyOnRails, Node.JS Technology, participated in different kind of teams achieving multiple challengues in each projects.
+My name is Walter Santacruz, and I'm a Software Engineer and Full Stack Developer from El Salvador 🇸🇻, with over 12 years of experience building and delivering software solutions.
+
+I specialize in **React.js, React Native, Next.js, and TypeScript**, with a strong focus on developing scalable, maintainable, and high-performance web and mobile applications.
+
+Throughout my career, I've worked with diverse teams and technologies, building modern application architectures, integrating RESTful APIs, developing reusable components, and creating backend solutions using **Node.js and Ruby on Rails**.
+
+I'm also passionate about exploring and integrating **AI-powered solutions, intelligent APIs, and emerging development tools** to enhance software development workflows and deliver better products.
+
+I enjoy tackling complex technical challenges, learning new technologies, and collaborating with teams to turn ideas into reliable, impactful software solutions.
 
 ## 🖥 Frontend
 ##### [![React](https://img.shields.io/badge/React-0A75CF?style=for-the-badge)](https://)   [![React Native](https://img.shields.io/badge/React_Native-0A75CF?style=for-the-badge)](https://)  [![Typescript](https://img.shields.io/badge/Typescript-E7E478?style=for-the-badge)](https://) [![Responsive Design](https://img.shields.io/badge/Responsive_Design-2ea44f?style=for-the-badge)](https://) 
