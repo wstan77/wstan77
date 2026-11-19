@@ -2,6 +2,11 @@
 
 My name is Walter Santacruz, and I'm a Software Engineer and Full Stack Developer from El Salvador 🇸🇻, with over 12 years of experience building and delivering software solutions.
 
+- 📆 12+ Years Experience
+- 💻 Full Stack
+- 📱 Mobile Development
+- 🧠 AI Engineering
+
 I specialize in **React.js, React Native, Next.js, and TypeScript**, with a strong focus on developing scalable, maintainable, and high-performance web and mobile applications.
 
 Throughout my career, I've worked with diverse teams and technologies, building modern application architectures, integrating RESTful APIs, developing reusable components, and creating backend solutions using **Node.js and Ruby on Rails**.
@@ -9,6 +14,9 @@ Throughout my career, I've worked with diverse teams and technologies, building 
 I'm also passionate about exploring and integrating **AI-powered solutions, intelligent APIs, and emerging development tools** to enhance software development workflows and deliver better products.
 
 I enjoy tackling complex technical challenges, learning new technologies, and collaborating with teams to turn ideas into reliable, impactful software solutions.
+
+🔗 Visit my LinkedIn professional profile: https://www.linkedin.com/in/wsantacruz
+
 
 ## 🖥 Frontend
 ##### [![React](https://img.shields.io/badge/React-0A75CF?style=for-the-badge)](https://)   [![React Native](https://img.shields.io/badge/React_Native-0A75CF?style=for-the-badge)](https://)  [![Typescript](https://img.shields.io/badge/Typescript-E7E478?style=for-the-badge)](https://) [![Responsive Design](https://img.shields.io/badge/Responsive_Design-2ea44f?style=for-the-badge)](https://) 
@@ -81,7 +89,7 @@ Key Features:
 
 [![bim](https://i.imgur.com/6WkwAAc.png)](https://)  [![bim](https://i.imgur.com/Hg2blOR.png)](https://) 
 
-`ReactJS` | `App Context` | `React HOOKs` | `TaildwindCSS` | `MirageJS` 
+`ReactJS` | `App Context` | `React HOOKs` | `TaildwindCSS` | `MirageJS` | `NextJS` 
 
 ### Red Sofa APP
 Mobile app that rewards you for helping your friends find jobs. Refer them to open opportunities, and if they get hired, you earn money. It’s a simple way to turn your network into income while helping the people you know land their next role.
