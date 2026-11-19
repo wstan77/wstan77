@@ -116,5 +116,6 @@ Key Features:
 - Weekly attendance reports and summaries
 
 <img width="305" height="568" alt="image" src="https://github.com/user-attachments/assets/186fba31-11cb-4f15-aca6-e346cbc562f4" />
+
 `React Native` | `EAS` | `Power Sync` 
 
